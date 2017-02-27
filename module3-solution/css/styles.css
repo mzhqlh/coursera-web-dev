@@ -2,7 +2,7 @@
 #header-nav {
 	border-radius:0;
 	border:0;
-	background-color:gray;
+	background-color:black;
 }
 
 #header-nav .container {
@@ -21,8 +21,7 @@
 }
 .navbar-header .navbar-brand{
 	font-size: 1.8em;
-	color: black;
-
+	color: white;
 }
 .navbar-nav {
 	margin: 0px 0px 0px 0px;
@@ -48,7 +47,7 @@
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 1px solid white;
 }
 .navbar-header button.navbar-toggle {
   clear: both;

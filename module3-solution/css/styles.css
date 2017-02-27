@@ -54,6 +54,7 @@
 #main-content div {
 	background-color: gray;
 	padding: 15px;
+	margin-bottom: 15px;
 }
 
 #main-content .title {

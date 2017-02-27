@@ -54,14 +54,28 @@
   margin-top: -30px;
 }
 
-#main-content div {
+#main-content .wrapper {
 	background-color: gray;
-	padding: 15px;
+	padding:15px;
 	margin-bottom: 15px;
+	position:relative;
 }
 
-#main-content .title {
-	margin: 0px auto 15px auto;
-	font-size: 1.8em;
+#main-content {
+	margin-left: 0px;
+	margin-right: 0px;
+	width:100%;
 }
 
+#main-content .bottom {
+	right: 0px;
+	bottom: 0px;
+	color: white;
+	position:absolute;
+
+}
+
+#main-content a {
+	background-color:black;
+	color: white;
+}
